@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/Ev61B9c" width="400"/>
+  <img src="https://imgur.com/Ev61B9c" width="400" height="300"/>
 </div>
 
 ---
@@ -20,5 +20,5 @@
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tofware&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tofware&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofware&layout=compact&theme=vision-friendly-dark" alt="GitHub Languages" /></a>
