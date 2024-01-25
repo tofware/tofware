@@ -8,7 +8,7 @@
 - 🖥 Full-stack developer
 - 💼 I'm currently trying to master Laravel
 - 🎓 Bachelor's degree in Business Administration with a specialization in Economic Computer Science
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
+- 🌐 You can access all my projects here on GitHub
 ---
 
 ### :hammer_and_wrench: Languages and Tools
