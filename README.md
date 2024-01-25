@@ -5,10 +5,11 @@
 ---
 
 ### :hammer_and_wrench: About me
-🖥 Full-stack developer
-💼 I'm currently trying to master Laravel
-🎓 Bachelor's degree in Business Administration with a specialization in Economic Computer Science
-🌐 You can access all my projects here on GitHub
+
+- 🖥 Full-stack developer
+- 💼 I'm currently trying to master Laravel
+- 🎓 Bachelor's degree in Business Administration with a specialization in Economic Computer Science
+- 🌐 You can access all my projects here on GitHub
 ---
 
 ### :hammer_and_wrench: Languages and Tools
