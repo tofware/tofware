@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-plain.svg" title="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" width="40" height="40"/>
