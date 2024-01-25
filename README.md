@@ -4,7 +4,16 @@
 
 ---
 
+### :hammer_and_wrench: About me
+- 🖥 Full-stack developer
+- 💼 I'm currently trying to master Laravel
+- 🎓 Bachelor's degree in Business Administration with a specialization in Economic Computer Science
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
+- 
+---
+
 ### :hammer_and_wrench: Languages and Tools
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-plain.svg" title="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" width="40" height="40"/>
